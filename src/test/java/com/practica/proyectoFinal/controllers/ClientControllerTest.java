@@ -1,4 +1,4 @@
-package com.viewnext.isban.practicas.controllers;
+package com.practica.proyectoFinal.controllers;
 
 import static org.junit.Assert.assertEquals;
 

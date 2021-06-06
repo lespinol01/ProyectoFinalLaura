@@ -7,10 +7,10 @@ import lombok.extern.slf4j.Slf4j;
 
 @SpringBootApplication
 @Slf4j
-public class IsbanJpaApplication {
+public class ProyectoFinalApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(IsbanJpaApplication.class, args);
+		SpringApplication.run(ProyectoFinalApplication.class, args);
 		log.info("The application started successfully");
 	}
 

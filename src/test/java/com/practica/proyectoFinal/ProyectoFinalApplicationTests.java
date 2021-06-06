@@ -1,10 +1,10 @@
-package com.practicas.viewnext.isbanJPA;
+package com.practica.proyectoFinal;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class IsbanJpaApplicationTests {
+class ProyectoFinalApplicationTests {
 
 	@Test
 	void contextLoads() {

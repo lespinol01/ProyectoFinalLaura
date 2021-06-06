@@ -15,10 +15,10 @@
         <version>2.2.4.RELEASE</version>
         <relativePath /> <!-- lookup parent from repository -->
     </parent>
-	<groupId>com.viewnext.isban.practicas</groupId>
-	<artifactId>isbanCriteriaBuilder</artifactId>
+	<groupId>com.practica.proyectoFinal.config</groupId>
+	<artifactId>ProyectoFinal-LauraEspino</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>isbanCriteriaBuilder</name>
+	<name>ProyectoFinal-LauraEspino</name>
 	<description>Using  CriteriaBuilder</description>
 	<properties>
 		<java.version>1.8</java.version>
