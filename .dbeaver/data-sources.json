@@ -1,0 +1,30 @@
+{
+	"folders": {},
+	"connections": {
+		"h2_embedded-178b1192ed0-535a128dc750c253": {
+			"provider": "generic",
+			"driver": "h2_embedded",
+			"name": "testdb.mv.db",
+			"save-password": true,
+			"read-only": false,
+			"configuration": {
+				"database": "C:\\Users\\6001694\\eclipse-practica\\IsbanJPA\\testdb.mv.db",
+				"url": "jdbc:h2:C:\\Users\\6001694\\eclipse-practica\\IsbanJPA\\testdb.mv.db",
+				"type": "dev",
+				"auth-model": "native",
+				"handlers": {}
+			}
+		}
+	},
+	"connection-types": {
+		"dev": {
+			"name": "Development",
+			"color": "255,255,255",
+			"description": "Regular development database",
+			"auto-commit": true,
+			"confirm-execute": false,
+			"confirm-data-change": false,
+			"auto-close-transactions": false
+		}
+	}
+}
